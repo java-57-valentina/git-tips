@@ -1,3 +1,5 @@
+# Here are my favourite git tricks, not base commands
+
 #### delete local branch
 ```
 git branch -D "${BRANCH_NAME}"
@@ -7,7 +9,6 @@ git branch -D "${BRANCH_NAME}"
 ```
 git push -d origin "${BRANCH_NAME}"
 ```
-# Here are my favourite git tricks, not base commands
 
 #### my favourite format of git log
 paste code into '~/.gitconfig', section 'alias'
